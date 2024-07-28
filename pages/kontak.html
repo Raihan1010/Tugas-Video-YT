@@ -22,4 +22,37 @@
         <li><a href="kontak.html">Kontak</a></li>
     </ul>
     <hr>
-    <h2>KONTAK !!!</h2>
+    <form action="Apel.html" method="get"> 
+    <fieldset>
+        <legend>Formulir Customer</legend>
+        <label for="">Nama :</label>
+        <input type="text" name="nama" placeholder="Nama Lengkap Anda" id=""> <br>
+
+        <label for="">Email :</label>
+        <input type="email" name="email" placeholder="Email Utama Anda" id=""> <br>
+
+        <label for="">Password :</label> 
+        <input type="password" name="password" placeholder="Password Email Anda" id=""> <br>
+
+        <label for="">Alamat</label>
+        <textarea name="alamat" id="" cols="20" rows="5" placeholder="Tuliskan Alamat Rumah Anda"></textarea> <br>
+
+        <label for="Kelamin">Jenis kelamin :</label> 
+        <input type="radio" name="Laki-laki"  id=""> Laki-laki 
+        <input type="radio" name="Perempuan"  id=""> Perempuan <br>
+
+        <label for="">Pilihan Buah:</label>
+        <select name="Buah" id="">
+            <option value="Apel">Apel</option>
+            <option value="Jeruk">Jeruk</option>
+            <option value="Mangga">Mangga</option>
+            <option value="Pisang" selected>Pisang</option>
+        </select> <br>
+
+        <input type="submit" name="kirim" value="kirim" id="">
+        
+    </fieldset>
+    </form>
+    
+</body>
+</html>
