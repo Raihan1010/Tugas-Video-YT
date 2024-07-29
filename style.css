@@ -1,0 +1,16 @@
+div{
+    width: 70%;
+    margin: auto;
+}
+
+h1{
+    color: rgb(17, 0, 255);
+}
+
+h2{
+    color: rgb(233, 30, 165);
+}
+
+p{
+    border: 2pt solid rgb(20, 204, 134);
+}
