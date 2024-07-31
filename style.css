@@ -1,16 +1,29 @@
 div{
     width: 70%;
-    margin: auto;
+    margin:auto;
 }
 
 h1{
     color: rgb(17, 0, 255);
+    position:relative;
+    bottom: 15px;
 }
 
 h2{
     color: rgb(233, 30, 165);
+    border: 2px dashed rgb(238, 28, 28);
 }
 
 p{
-    border: 2pt solid rgb(20, 204, 134);
+    border: dashed rgb(5, 151, 95);
+    margin-top: 40px;
+    padding: 20px 10px 20px 10px;
+}
+
+html{
+    background-color: rgb(236, 233, 229);
+}
+
+img{
+    border: solid black;
 }
