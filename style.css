@@ -27,3 +27,25 @@ html{
 img{
     border: solid black;
 }
+
+
+
+ol li{
+    background-color: antiquewhite;
+}
+
+#paragraf{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.huruf{
+    font-size: 25px;
+}
+
+.warna{
+    background-color: rgb(108, 243, 243);
+}
+
+.bentuk{
+    font-style: italic;
+}
