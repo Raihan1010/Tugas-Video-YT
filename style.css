@@ -12,6 +12,7 @@ h1{
 h2{
     color: rgb(233, 30, 165);
     border: 2px dashed rgb(238, 28, 28);
+    margin-top: 80px;
 }
 
 p{
@@ -30,8 +31,11 @@ img{
 
 
 
+
+
 ol li{
     background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #paragraf{
@@ -48,4 +52,60 @@ ol li{
 
 .bentuk{
     font-style: italic;
+}
+
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: darksalmon;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+ul li{
+    color: #fff;
+    background: darksalmon;
+    display: block;
+    border: 1px blue;
+    float: left;
+    padding: 10px;
+    position: relative;
+    text-decoration: none;
+}
+
+ul li a{
+    color: #fff;
+}
+
+ul li :hover{
+    background: red;
+    cursor: pointer;
+}
+
+ul li ul{
+    background: darksalmon;
+    visibility: hidden;
+    position: absolute;
+    margin-top: 0.5rem;
+    left: 0;
+    display: none;
+}
+
+ul li:hover > ul, 
+ul li ul:hover{
+    visibility: visible;
+    display: block;
+}
+
+ul li ul li{
+    clear: both;
+    width: 100%;
 }
