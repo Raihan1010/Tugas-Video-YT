@@ -1,5 +1,5 @@
 div{
-    width: 70%;
+    width: 70vw;
     margin:auto;
 }
 
@@ -43,7 +43,7 @@ ol li{
 }
 
 .huruf{
-    font-size: 25px;
+    font-size: 2rem;
 }
 
 .warna{
@@ -73,9 +73,8 @@ ul{
 ul li{
     color: #fff;
     background: darksalmon;
-    display: block;
+    display: inline-block;
     border: 1px blue;
-    float: left;
     padding: 10px;
     position: relative;
     text-decoration: none;
