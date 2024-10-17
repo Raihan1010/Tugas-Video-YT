@@ -1,0 +1,82 @@
+
+/* Pembelajaran ttg Grid Layout (Row & Colom)  */
+/* .lima{
+    height: 50px;
+}
+
+.seratus{
+    height: 100px;
+}
+
+.merah{
+    background: red;
+}
+
+.kuning{
+    background: yellow;
+}
+
+.hijau{
+    background: green;
+} */
+
+html { 
+    scroll-behavior: smooth;
+}
+
+
+
+/* NAVBAR (DROPDOWN MENU) */
+/* saya atur di css karena tdak bisa diatur lgsg dengan (ml-auto) */
+.navbar-nav{
+    margin-left: auto;
+}
+/* agar pergeseran dropdown menu menjadi lebih smooth */
+.navbar-collapse {
+    transition: height 0.3s ease;
+}
+
+
+
+/* SLIDER / CARAUSEL */
+.carousel-item img{
+    height: 180px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 560px){
+    .carousel-item img{
+        height: 600px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+/* agar pergeseran slider menjadi lebih smooth */
+.carousel-item {
+    transition: transform 0.5s ease-in-out;
+}
+
+
+
+/* CARD */
+.card img{
+    height: 240px;
+}
+
+
+
+/* MODAL */
+/* agar kemunculan Modal menjadi lebih smooth */
+.modal.fade .modal-dialog {
+    transition: transform 0.3s ease-out;
+    transform: translateY(-50px);
+}
+
+.modal.show .modal-dialog {
+    transform: translateY(0);
+}
+
+
+
+
