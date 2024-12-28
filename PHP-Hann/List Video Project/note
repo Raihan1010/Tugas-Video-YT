@@ -1,0 +1,73 @@
+Note By : M. Raihan Al Irsyad  2024
+
+PHP DASAR :
+Video 1 = orientasi php
+Video 2 (lat 1) = penulisan, menampilkan php
+Video 3 (lat 2) = Variabel Tipe Data & comment
+Video 4 (lat 3) = Function
+Video 5 (lat 4) = Macam2 Operator PHP
+Video 6 (lat 5) = Pengujian IF Else
+Video 7 (switch) = Selector PHP (Switch Case)
+Video 8 (loop) = Pengulangan PHP (Looping)
+Video 9 (array) = Array PHP
+Video 10 (foreach) = Foreach PHP ( = materi array )
+Video 11 (Require) = Require_one PHP
+Video 12 (POST) = Post PHP
+Video 13 (GET) = GET PHP
+Video 14 (Session) = Session PHP
+Video 15 (Cookie)
+Video 16 (Upload File)
+
+
+PHP MYSQL :
+Video 17 (PHP MySQL) = Belajar membuat database dan tabel
+Video 18 (Select data) = Menyambungkan PHP dengan My SQL + memilih dan memunculkan data dari MySQL
+Video 19 (Paging) = Paging adalah menampilkan data dengan dipotong-potong menjadi beberapa bagian / halaman    
+Video 20 (Insert Data) = Menambahkan data dari PHP ke Mysql
+Video 21 (Delete Data)  = Menghapus data dari PHP ke Mysql
+Video 22 = (Update Data) = Memperbarui data dari PHP ke Mysql
+
+
+OOP PHP :
+Video 23 (OOP PHP) = Pengenalan Obeject Oriented Programming
+Video 24 (OOP PHP #2  + Project #1 {Pembuata Class DB} ) = Persiapan sebelum masuk kedalam pembuatan aplikasi restoran (menyiapkan semua jenis function)
+
+
+PROJECT PHP RESTORAN :
+
+Admin Page :
+Video 25 (Project #2) = pembuatan admin page (back end) layout
+Video 26 (Project #3) = pembuatan admin page (back end) mengatur menu
+Video 27 (Project #4) = pembuatan admin page (back end) Select & Paging
+Video 28 (Project #5) = pembuatan admin page (back end) Insert, Update, dan Delete data / kategori.
+Video 29 (Project #6) = Pembuatan admin page (back end) Combobox / Select Option.
+Video 30 (Project #7) = Pembuatan admin page (back end) Menampilkan gambar menu.
+Video 31 (Project #8) = Pembuatan admin page (back end) Insert & Upload gambar menu.
+Video 32 (Project #9) = Pembuatan admin page (back end) Upload & Delete menu.
+VIdeo 33 (Project #10) Pembuatan admin page (back end) Menampilkan data Pelanggan.
+Video 34 (Project #11) Pembuatan admin page (back end) Menampilkan data User.
+Video 35 (Project #12) Pembuatan admin page (back end) Menambah Data User.
+Video 36 (Project #13) Pembuatan admin page (back end) Form Login.
+Video 37 (Project #14) Pembuatan admin page (back end) Update User.
+
+Customer Page :
+Video 38 (Project #1) Pembuatan home page (front end) Mengatur Menu.
+Video 39 (Project #2) Pembuatan home page (front end) Menampilkan Produk.
+Video 40 (Project #3) Pembuatan home page (front end) Mengatur Kategori Produk.
+Video 41 (Project #4) Pembuatan home page (front end) Registrasi Pelanggan.
+Video 42 (Project #5) Pembuatan home page (front end) Login Pelanggan.
+Video 43 (Project #6) Pembuatan home page (front end) Membuat Chart (keranjang belanja).
+Video 44 (Project #7) Pembuatan home page (front end) Menghapus Isi Chart.
+Video 45 (Project #8) Pembuatan home page (front end) Menambah / Mengurangi Pesanan dalam Chart.
+Video 46 (Project #9) Pembuatan home page (front end) Menambah Checkout.
+Video 47 (Project #10) Pembuatan home page (front end) Menambah Order Detail.
+Video 48 (Project #11) Pembuatan home page (front end) Mengosongkan Session Chart.
+Video 49 (Project #12) Pembuatan home page (front end) Menambah Jumlah Item Pembelian Dalam Chart.
+Video 50 (Project #13) Pembuatan home page (front end) Menambah History Pembelian.
+
+Admin Page #2 :
+Video 51 (Project #15) Pembuatan admin page (back end) Menambahkan Order Pembelian.
+Video 52 (Project #16) Pembuatan admin page (back end) Menambah Pembayaran Order. 
+Video 53 (Project #17) Pembuatan admin page (back end) Menambah Detail Pembelian Pada Order Detail.
+Video 54 (Project #18) Pembuatan admin page (back end) Pembuatan Level Akses (Admin, Koki, Kasir).
+Video 55 (Project #19) Pembuatan admin page (back end) Enkripsi Password.
