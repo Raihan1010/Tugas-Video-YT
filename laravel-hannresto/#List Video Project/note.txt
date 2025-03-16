@@ -1,0 +1,63 @@
+Note By : M. Raihan Al Irsyad  2025
+
+#1. Deskripsi Project Apk Restoran
+#2. Instalasi Xampp, Composer, Vs Code, dan Extensi Laravel
+#3. Instalasi Laravel 9 & Bootstrap
+#4. Pembuatan Model, Migration, Factory, Seeder, & Controller ( Lewat Terminal )
+#5. Menggunakan / Menjalankan Migration
+
+#6. Cara Kerja Laravel (URL>Router>View)
+#7. Menggunakan Controller (URL>Controller>Router>View) 
+#8. Menggunakan Bootstrap untuk tampilan frontend / front
+#9. Tinker & Factory : Mengisi (kategori,pelanggan) dan Mengirim Data (data kategori ke front)
+#10. Blade Templating ( tampilan front <=> menu)
+
+#11. Menambahkan paginasi (Paginator)
+#12. Menggunakan where (show id)
+#13. Menggunakan form (membuat register)
+
+#14. Mengirim data dari form (register)
+#15. Insert data (ke database)
+#16. Form Login
+#17. Proses Login
+#18. Proses Logout
+
+#19. Shopping Cart : Mengisi session
+#20. Shopping Cart : Menampilkan isi session
+#21. Shopping Cart : Menghapus isi session
+#22. Shopping Cart : Mengubah isi session
+#23. Shopping Cart : Insert isi session ke Database
+
+#24. Back End : Menambah kolom migration (Tabel users,orders,pelanggans)
+#25. Back End : Menggunakan Seeder (Tabel users)
+#26. Back End : Login Hak Akses Middleware (CekLogin<=>Kernel.php)
+#27. Back End : Login Hak Akses Login Admin (Backend/login.blade.php)
+#28. Back End : Mengatur Blade Admin (Backend/back.blade.php)
+#29. Back End : Mengatur route Admin (route kategori, user, order)
+#30. Back End : Menambah Middleware Auth (Akses admin, kasir, manager)
+#31. Back End : Middleware roles !!!
+
+#32. Back End : Select Data (views/Backend/Kategori/select.blade.php)
+#33. Back End : Insert Data (Data kategori ke Database)
+#34. Back End : Delete Data
+#35. Back End : Update Data
+
+#36. Back End : Menggabungkan  / Join Tabel (Tabel menus & kategoris)
+#37. Back End : Paging dalam Join Tabel (paging pada menu)
+#38. Back End : Select option html (pilih kategori menu)
+#39. Back End : Upload gambar (ke public\gambar)
+#40. Back End : Insert Data dengan gambar (Insert Menu)
+#41. Back End : Delete data menu
+#42. Back End : Update data menu
+
+#43. Back End : Order By (Order admin page)
+#44. Back End : PHP dalam Blade (status pelanggan aktif/bayar)
+#45. Back End : Update tabel order (Pembayaran : Bayar/Lunas)
+#46. Back End : Detail Order pelanggan
+#47. Back End : WhereBetween (detail/select.blade.php (halaman detail orderan) => Tgl Orderan)
+
+#48. Back End : Cara Banned (pelanggan aktif / banned)
+#49. Back End : Tampilkan data user
+#50. Back End : Insert Data User
+#51. Back End : Update Password User
+#52. Back End : Hapus Data User
