@@ -1,0 +1,45 @@
+Note By : M. Raihan Al Irsyad  2025
+
+/javascript-Hann :
+1. Penulisan Coding (javascript.js)
+2. Variabel & Konstanta (variable.js)
+3. Tipe data (tipedata.js)
+4. Operator Matematika (operator.js)
+5. Operator Logika (logika.js)
+6. Percabangan : If (percabangan.js)
+7. Selector : Switch case (selector.js)
+8. Pengulangan / Looping (loop.js)
+9. Function (function.js)
+10. ArrowFunction (arrowfunctino.js)
+11. Array (array.js)
+12. Object (object.js)
+13. Document Object Model / DOM (dom.js)
+14. DOM Event (event.js)
+15. DOM EventListener (eventlistener.js)
+16. Project Counter UP DOWN (counter.js)
+17. querySelectorAll (kalkulator.js)
+18. Project kalkulator (kalkulator.js)
+19. Array Method-1 : Push, pop, shift, unshift, splice, slice (arraymethods.js)
+20. Array Method-2 : Concat, forEach, filter (arraymethods.js)
+21. Array Method-3 : Map , Sort, Reduce (arraymethods.js)
+22. Project Shopping Cart-1 (shoppingcart.js)
+23. Project Shopping Cart-2 (shoppingcart.js)
+24. Project Shopping Cart-3 (shoppingcart.js)
+25. Local Storage (localstorage.js)
+26. Session Storage (sessionstorage.js)
+27. JSON / Javascript Object Notation (json.js & tblmenu.json)
+28. FETCH Data (json.js <=> tblmenu.json)
+29. FETCH Data API : Application Programming Interface (fetchdata.js)
+30. Async await (async.js)
+31. Jquery-1 : persiapan/instalasi & selector (jquery.js & latjquery.js) 
+32. Jquery-2 : event (latjquery.js)
+
+/ajax-jquery :
+33. Ajax-Jquery PHP Bootstrap-1
+34. Ajax-Jquery PHP Bootstrap-2 : Layout
+35. Ajax-Jquery PHP Bootstrap-3 : Select Data
+36. Ajax-Jquery PHP Bootstrap-4 : Insert Data
+37. Ajax-Jquery PHP Bootstrap-5 : Delete Data
+38. Ajax-Jquery PHP Bootstrap-6 : Update Data (1)
+39. Ajax-Jquery PHP Bootstrap-7 : Update Data (2)
+40. Ajax-Jquery PHP Bootstrap-8 : Modal
